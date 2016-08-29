@@ -3,6 +3,11 @@ import os
 import sys
 import socket
 
+#Goals for script
+# able to choose program, output file names, input file names, additional flags for production
+
+
+
 locdir = input("Working Directory path: ")
 mdp_file = input("Mdp file full name: ")
 ini_confprefix = input("Config file prefix ex. sys: ")
